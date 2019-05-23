@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start" : "nodemon index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
-    "nodemon": "^1.19.0"
+    "nodemon": "^1.19.0",
+    "pusher": "^2.2.0"
   }
 }
